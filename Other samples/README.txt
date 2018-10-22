@@ -1,0 +1,1 @@
+Contains samples that were generated through additive synthesis/audio editing/digital mixing
