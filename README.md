@@ -1,0 +1,2 @@
+# final-year-project-BRWMOR001
+Contains the MATLAB and Python programs and audio samples used in the final year project. PComPS - the piano composition playback studio. A full README is available in its folder. Matlab analysis - folder containing the audio samples and matlab code used to plot various waveforms/frequency spectra. All plots - all plots generated (in Audacity and MATLAB) for the stufy, including those that weren't included in the report.
